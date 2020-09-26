@@ -1,1 +1,1 @@
-# Homework01
+This is the first homework submission in the class. In this file you will find the HTML updated with semantic elements and a CSS file that has been compressed to combine like elements for better code readibility. 
